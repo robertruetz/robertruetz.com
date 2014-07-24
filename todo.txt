@@ -1,0 +1,11 @@
+TODO
+
+--Should I adjust overflow so that scroll bar is always present to avoid a visual shift when navigating to pages with overflow?
+	
+--About Page
+	--Signature on left or where it is?
+	
+--Flesh out and design pages
+	--News
+	--Porfolio
+	--Contact
